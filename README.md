@@ -15,6 +15,7 @@ This online Web application can be used to write and save notes.
 - [Installation Instructions](#Installation-Instructions)
 - [Usage Instructions](#Usage-Instructions)
 - [Technologies Used](#Technologies-Used)
+- [Deployed Application Link](#Deployed-Application-Link)
 - [Video Location](#Video-Location)
 - [Screenshots](#Screenshots)
 - [Test](#Test)
@@ -81,6 +82,9 @@ This is an online Web Application deployed through Heroku, hence it doesn't need
 - Node.js [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
 - Express.js [Version 4.16.4](https://expressjs.com/)
 - Visual Studio Code: [Website](https://code.visualstudio.com/)
+
+## Deployed Application Link
+[Deployed Application Link:](https://lit-caverns-39901-b1b0838a840a.herokuapp.com/)
 
 ## Video Location
 [Express Note Taker](https://drive.google.com/file/d/1r6-Jf42oFd49sn-jYlvYtPBdXlIjhpmq/view?usp=sharing)
